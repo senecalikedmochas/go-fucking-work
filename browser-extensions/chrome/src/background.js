@@ -6,6 +6,7 @@ var unprodctiveURLs = [
   "theoatmeal.com",
   "facebook.com",
   "500px.com"
+  "producthunt.com"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
